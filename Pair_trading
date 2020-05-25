@@ -1,4 +1,5 @@
 #我的数据大部分是股票数据，因此以股票为例
+#这里有一部分的函数在我的Framework文件里面
 
 import pandas as pd
 import Get_data
